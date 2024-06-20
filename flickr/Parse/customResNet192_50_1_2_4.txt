@@ -1,0 +1,14 @@
+{
+    "rounds": 50,
+    "epochs": 1,
+    "bs": 4,
+    "lr": 0.01,
+    "momentum": 0.9,
+    "split_ratio": 0.8,
+    "base_layers": 2,
+    "model": "customResNet192",
+    "num_classes": 5,
+    "gpu": 0,
+    "seed": 1,
+    "naive": false
+}
